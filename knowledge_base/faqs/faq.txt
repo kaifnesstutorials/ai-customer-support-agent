@@ -1,0 +1,8 @@
+Q: What is your refund policy?
+A: Customers can request a refund within 7 days of delivery.
+
+Q: How long does delivery take?
+A: Delivery usually takes 3-5 business days.
+
+Q: How to reset password?
+A: Click on 'Forgot Password' and follow instructions.

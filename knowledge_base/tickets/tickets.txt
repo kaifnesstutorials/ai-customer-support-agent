@@ -1,0 +1,7 @@
+User: I didn't receive my order
+Agent: Sorry for the inconvenience. Let me check your order status.
+Resolution: Order was delayed. Refund issued.
+
+User: I want to return my product
+Agent: Sure, I will guide you through return process.
+Resolution: Return initiated successfully.
