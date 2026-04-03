@@ -159,7 +159,7 @@ streamlit run app_ui.py
 
 ## 👨‍💻 Author
 Mohd Kaif Shaikh
-AI and DS graduate
+,AI and DS graduate
 
 ---
 
